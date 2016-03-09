@@ -1,4 +1,4 @@
-# NEAT!
+# NEAT!2
 **A New, Evolutive API and Transport-Layer Architecture for the Internet**
 
 NEAT supports **FreeBSD**, **Linux**, **OS X** and **NetBSD**
